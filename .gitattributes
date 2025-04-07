@@ -3,3 +3,4 @@ llvm-19.1.7.tar.gz.ab filter=lfs diff=lfs merge=lfs -text
 llvm-19.1.7.tar.gz.ac filter=lfs diff=lfs merge=lfs -text
 llvm-19.1.7.tar.gz.ad filter=lfs diff=lfs merge=lfs -text
 llvm-project-llvmorg-19.1.1.zip filter=lfs diff=lfs merge=lfs -text
+llvmorg-19.1.7.tar.gz filter=lfs diff=lfs merge=lfs -text
